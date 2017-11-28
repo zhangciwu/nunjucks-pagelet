@@ -1,3 +1,12 @@
+w modify:
+
+js中require使用改为需要具体到文件（之前为到目录）
+
+下面为原repo说明
+
+=========================================================================
+
+
 # [scrat](https://github.com/scrat-team/scrat) 后端渲染解决方案的模板扩展
 
 scrat后端渲染组件化开发模式通过扩展 [nunjucks](http://mozilla.github.io/nunjucks) 模板引擎实现了组件资源管理方案。
