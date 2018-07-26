@@ -32,7 +32,7 @@ const env = nunjucks.configure(baseDir, {});
  * @param {String} opt.root 静态文件的根目录
  * @param {Boolean} [opt.cache] 是否缓存资源映射表
  * @param {Object} [opt.logger] 日志对象
- * @param {Object} [opt.crossorigin] 是否允许JS跨域
+ * @param {Object} [opt.crossorigin] 设置crossorigin
  * @return {void}
  */
 pagelet.configure({
