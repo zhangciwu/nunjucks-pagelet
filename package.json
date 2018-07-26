@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-pagelet-w",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "scrat-swig的nunjucks版本, 提供pagelet支持;W-version:Require js with exact file path",
   "dependencies": {
     "delegates": "^1.0.0",
